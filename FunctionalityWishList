@@ -1,0 +1,103 @@
+
+LOGIN PORTAL - May not need this. Might only need a cookie? 
+(Auth seems to be based on cookie anyways, can I pull from this?)
+==============
+-Make a way to make accounts
+-Normal Account 
+-Admin Account
+==============
+ID - Key Pair Digest (Like AWS, AZURE, Google Cloud Computing)
+
+Connect the Data Name to the Spotify Account name
+Connect the Token Name to a cookie.
+
+Generate a tokens - name the token-spotifyName and data-spotifyName
+
+
+
+
+
+Thread Robustness
+(Think Heather Miller - Simulate threads going down)
+Thread Safe operations.
+
+Data is split per person's account
+
+
+
+Management of Resources, Queries, And Resources on Login Portal
+-Metrics Page to Remotely check in on the site
+-Thread Management
+-Queries per second metrics
+
+
+
+Backend Showing can be like CML for Listening HiScores
+
+EDM
+
+
+"This is gg.deals but for music." -hi, (Unknown, but friendly? yes yay <3)
+
+
+
+USE GG.DEALS PAGE AS THE BASE FOR ARTIST INFO (Fancy, Showy)
+
+Current Song Page
+What song is playing currently
+-Length of Song
+-Artist
+-Song Name
+-Album
+
+-Grab all saved tracks by user **? (50 is the limit per query, go in groups of 50, I think)
+
+-Do a break-down of user's saved tracks
+
+
+
+-PER ARTIST MERCH PAGE
+---> New Merch?
+
+
+Literally ChicHOMEZ exposed endpoints from that one bank 
+(Expose Per Cookie? (Avoid making an account if necessary, barrier to entry, plus spam))
+
+
+
+-Can this data be pulled from Spotify??
+-EDMTrain (What Events they'll be at)
+
+
+-Want to see others? Check out EDM Train. MAKE SURE TO CITE EDM TRAIN RESPECTFULLY FOR DATA!!!
+
+-Upcoming 
+
+
+
+What genre it classifies as
+Songs you've listened to today
+
+
+Need a different auth page because a first redirect to this does not work 
+Does not generate the token
+has nothing to grab
+
+Redirect uri for some reason needs to be localhost instead of internal ip. Might need a domain to test it on
+--figure that out ...
+
+subsequent redirects work
+
+
+
+
+
+
+
+DONE!
+=============================================================
+Consider putting the original res.json as the Entry returned.
+PLEASE. BETTER. OK! <3
+=============================================================
+-Album Art (PULL EITHER FROM SPOTIFY PUBLIC OR ALBUM ART WEBSITE)
+=============================================================

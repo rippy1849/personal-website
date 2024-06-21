@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+<script>
+
+    function updateCurrentSong(){
+
+    //First grab the endpoint, json
+
+        //document.getElementById()
+        //console.log($(document.onload).getJSON('/currentSong/Rippy'))
+
+        //var queryData;
+        $(document).ready(function() {
+            //console.log("Hi")
+
+            //Data is what is returned from the json query
+
+            //$.getJSON('/tokens.json', function(data) {
+                //console.log(data); 
+                //var songHeader = document.getElementById("CurrentSongHeader");
+                //console.log(songHeader)
+                //songHeader.innerHTML = (data['item'])['name']
+
+                //console.log("Hi")
+                //myItems = data.items;
+                //console.log(myItems);
+            //});
+
+
+
+        });
+        //console.log(queryData);
+    }
+
+
+    //updateCurrentSong()
+
+
+   //setInterval(updateCurrentSong, 1000);
+</script>
+
+
+<div>
+<h1>
+    Spotify Stat Tracker
+</h1>
+<a href="/currentSong">
+Href to currentSong Page
+</a>
+
+<a href = '{{authLink}}'>
+Authorize Spotify
+</a>
+
+
+</div>
+
+
+
+
+</body>
+
+</html>
