@@ -2,9 +2,30 @@
 <html>
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../css/main.css">
+<style>
+    .column {
+        float: left;
+        width: 50%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+
+
+</style>
+
+
 
 </head>
 <body>
+
+    <div id="topnav" class="topnav">
+        <a href="/">Home</a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+        <a class="active" href ="/spotify-api">Spotify</a>
+      </div>
 
 <script>
 
@@ -88,28 +109,43 @@
    setInterval(updateCurrentSong, 1000);
 </script>
 
+<div class="container">
+    <div class="column" width="640" height="640">
+        
+        <img src="" id="CurrentlyPlayingAlbumCover" width="640" height="640">
+    
+    </div>
+    <div class="column">
+        <h1>
+            Spotify Stat Tracker
+        </h1>
+        <h1 id="CurrentSongHeader">
+        </h1>
+        <div>
+            <p>Total Song Listens</p>
+            <p id="SongListens"></p>
+        </div>
+        <div>
+            <p>Total Album Listens</p>
+            <p id="AlbumListens"></p>
+        </div>
+        <div>
+            <p>Total Artist Listens</p>
+            <p id="ArtistListens"></p>
+        </div>
+    </div>
+</div>
+
+
 
 <div>
-<h1>
-    Spotify Stat Tracker
-</h1>
-<h1 id="CurrentSongHeader">
 
-</h1>
-<div>
-    <p>Total Song Listens</p>
-    <p id="SongListens"></p>
-</div>
-<div>
-    <p>Total Album Listens</p>
-    <p id="AlbumListens"></p>
-</div>
-<div>
-    <p>Total Artist Listens</p>
-    <p id="ArtistListens"></p>
-</div>
 
-<img src="" id="CurrentlyPlayingAlbumCover" width="640" height="640">
+
+
+
+
+
 
 </div>
 

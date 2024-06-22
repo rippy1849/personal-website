@@ -1696,10 +1696,14 @@
         }
     },
     "Mau P": {
-        "listens": 1,
+        "listens": 2,
         "BEATS FOR THE UNDERGROUND": {
             "listens": 1,
             "BEATS FOR THE UNDERGROUND": 1
+        },
+        "Drugs From Amsterdam": {
+            "listens": 1,
+            "Drugs From Amsterdam": 1
         }
     },
     "Avicii": {
@@ -1802,10 +1806,10 @@
         }
     },
     "Rainych": {
-        "listens": 1,
+        "listens": 2,
         "Say So (Japanese Version)": {
-            "listens": 1,
-            "Say So - Japanese Version": 1
+            "listens": 2,
+            "Say So - Japanese Version": 2
         }
     },
     "Ella Henderson": {
@@ -2051,10 +2055,14 @@
         }
     },
     "Adele": {
-        "listens": 1,
+        "listens": 2,
         "19": {
             "listens": 1,
             "Chasing Pavements": 1
+        },
+        "Hello": {
+            "listens": 1,
+            "Hello": 1
         }
     },
     "Imagine Dragons": {
@@ -2103,10 +2111,14 @@
         }
     },
     "Miley Cyrus": {
-        "listens": 1,
+        "listens": 2,
         "Wrecking Ball": {
             "listens": 1,
             "Wrecking Ball": 1
+        },
+        "Endless Summer Vacation": {
+            "listens": 1,
+            "Jaded": 1
         }
     },
     "LF SYSTEM": {
@@ -2129,10 +2141,14 @@
         }
     },
     "ARTY": {
-        "listens": 1,
+        "listens": 2,
         "Falling Down": {
             "listens": 1,
             "Falling Down": 1
+        },
+        "Sunrise": {
+            "listens": 1,
+            "Sunrise": 1
         }
     },
     "LSDREAM": {
@@ -2298,6 +2314,111 @@
         "A Thousand Years": {
             "listens": 1,
             "a thousand years": 1
+        }
+    },
+    "Tame Impala": {
+        "listens": 1,
+        "Currents": {
+            "listens": 1,
+            "The Less I Know The Better": 1
+        }
+    },
+    "Toby Fox": {
+        "listens": 1,
+        "UNDERTALE Soundtrack": {
+            "listens": 1,
+            "Ghost Fight": 1
+        }
+    },
+    "Subfer": {
+        "listens": 1,
+        "Signs": {
+            "listens": 1,
+            "Signs": 1
+        }
+    },
+    "ch\u00e6": {
+        "listens": 1,
+        "Signs": {
+            "listens": 1,
+            "Signs": 1
+        }
+    },
+    "Queen": {
+        "listens": 1,
+        "The Works (Deluxe Remastered Version)": {
+            "listens": 1,
+            "I Want To Break Free - Remastered 2011": 1
+        }
+    },
+    "Parov Stelar": {
+        "listens": 1,
+        "Coco Part 1": {
+            "listens": 1,
+            "Sunny Bunny Blues feat. Veda 36": 1
+        }
+    },
+    "Veda 36": {
+        "listens": 1,
+        "Coco Part 1": {
+            "listens": 1,
+            "Sunny Bunny Blues feat. Veda 36": 1
+        }
+    },
+    "Navos": {
+        "listens": 1,
+        "Believe Me": {
+            "listens": 1,
+            "Believe Me": 1
+        }
+    },
+    "ODESZA": {
+        "listens": 1,
+        "The Last Goodbye": {
+            "listens": 1,
+            "Equal": 1
+        }
+    },
+    "L\u00e5psley": {
+        "listens": 1,
+        "The Last Goodbye": {
+            "listens": 1,
+            "Equal": 1
+        }
+    },
+    "April Bender": {
+        "listens": 1,
+        "Sunrise": {
+            "listens": 1,
+            "Sunrise": 1
+        }
+    },
+    "Sam Feldt": {
+        "listens": 1,
+        "Crying On The Dancefloor": {
+            "listens": 1,
+            "Crying On The Dancefloor": 1
+        }
+    },
+    "Jonas Blue": {
+        "listens": 1,
+        "Crying On The Dancefloor": {
+            "listens": 1,
+            "Crying On The Dancefloor": 1
+        }
+    },
+    "Endless Summer": {
+        "listens": 1,
+        "Crying On The Dancefloor": {
+            "listens": 1,
+            "Crying On The Dancefloor": 1
+        }
+    },
+    "Violet Days": {
+        "listens": 1,
+        "Crying On The Dancefloor": {
+            "listens": 1,
+            "Crying On The Dancefloor": 1
         }
     }
 }

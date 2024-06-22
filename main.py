@@ -317,15 +317,21 @@ def book_class(endpoint : str):
     return FileResponse('./data.json')
 
 @app.get('/scripts/{script}')
-def book_class(script : str):
+def get_script(script : str):
     
-    
-
     return FileResponse('./scripts/' + script)
 
 @app.get('/images/{image}')
-def book_class(image : str):
-    
-    
+def get_image(image : str):
 
     return FileResponse('./images/' + image)
+
+@app.get('/css/{css}')
+def get_css(css : str):
+
+    return FileResponse('./css/' + css)
+
+@app.get('/html/{html}')
+def get_css(html : str):
+
+    return FileResponse('./html/' + html)
