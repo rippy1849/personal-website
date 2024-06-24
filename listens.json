@@ -1,13 +1,15 @@
 {
     "Steven Universe": {
-        "listens": 2,
+        "listens": 4,
         "Steven Universe The Movie (Original Soundtrack)": {
-            "listens": 1,
-            "The Missing Piece": 1
+            "listens": 2,
+            "The Missing Piece": 1,
+            "Independent Together (feat. Ted Leo, Deedee Magno Hall & Aimee Mann)": 1
         },
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
-            "listens": 1,
-            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1
+            "listens": 2,
+            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1,
+            "Stronger Than You (feat. Estelle)": 1
         }
     },
     "Ellie Goulding": {
@@ -18,7 +20,7 @@
         }
     },
     "Billie Eilish": {
-        "listens": 2,
+        "listens": 3,
         "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?": {
             "listens": 1,
             "you should see me in a crown": 1
@@ -26,6 +28,10 @@
         "HIT ME HARD AND SOFT": {
             "listens": 1,
             "BIRDS OF A FEATHER": 1
+        },
+        "Bellyache": {
+            "listens": 1,
+            "bellyache": 1
         }
     },
     "Zingara": {
@@ -64,10 +70,18 @@
         }
     },
     "Two Friends": {
-        "listens": 1,
+        "listens": 3,
         "Out of Love (feat. Cosmos & Creature)": {
             "listens": 1,
             "Out of Love (feat. Cosmos & Creature)": 1
+        },
+        "Last Day": {
+            "listens": 1,
+            "Last Day": 1
+        },
+        "Head Up High (Two Friends Remix)": {
+            "listens": 1,
+            "Head Up High - Two Friends Remix": 1
         }
     },
     "Cosmos": {
@@ -110,11 +124,11 @@
         }
     },
     "Melanie Martinez": {
-        "listens": 7,
+        "listens": 8,
         "PORTALS": {
-            "listens": 5,
+            "listens": 6,
             "VOID": 1,
-            "FAERIE SOIR\u00c9E": 1,
+            "FAERIE SOIR\u00c9E": 2,
             "DEATH": 1,
             "TUNNEL VISION": 2
         },
@@ -128,14 +142,14 @@
         }
     },
     "Diljit Dosanjh": {
-        "listens": 4,
+        "listens": 6,
         "MoonChild Era": {
-            "listens": 1,
-            "Lover": 1
+            "listens": 2,
+            "Lover": 2
         },
         "Good Newwz": {
-            "listens": 3,
-            "Sauda Khara Khara - From \"Good Newwz\"": 3
+            "listens": 4,
+            "Sauda Khara Khara - From \"Good Newwz\"": 4
         }
     },
     "Todrick Hall": {
@@ -208,43 +222,51 @@
         }
     },
     "John Summit": {
-        "listens": 1,
+        "listens": 2,
         "Make Me Feel": {
-            "listens": 1,
-            "Make Me Feel": 1
+            "listens": 2,
+            "Make Me Feel": 2
         }
     },
     "Dua Lipa": {
-        "listens": 4,
+        "listens": 6,
         "Radical Optimism": {
             "listens": 2,
             "Illusion": 1,
             "Training Season": 1
         },
         "Houdini": {
-            "listens": 2,
-            "Houdini": 2
+            "listens": 3,
+            "Houdini": 3
+        },
+        "Future Nostalgia": {
+            "listens": 1,
+            "Break My Heart": 1
         }
     },
     "Alessia Cara": {
-        "listens": 2,
+        "listens": 3,
         "Moana (Original Motion Picture Soundtrack/Deluxe Edition)": {
             "listens": 2,
             "How Far I'll Go - Alessia Cara Version": 2
+        },
+        "Stay": {
+            "listens": 1,
+            "Stay": 1
         }
     },
     "CID": {
-        "listens": 1,
+        "listens": 3,
         "Duro": {
-            "listens": 1,
-            "Duro": 1
+            "listens": 3,
+            "Duro": 3
         }
     },
     "Kesha": {
-        "listens": 9,
+        "listens": 11,
         "Rainbow": {
-            "listens": 7,
-            "Let 'Em Talk (feat. Eagles of Death Metal)": 2,
+            "listens": 8,
+            "Let 'Em Talk (feat. Eagles of Death Metal)": 3,
             "Hymn": 1,
             "Rainbow": 1,
             "Hunt You Down": 1,
@@ -254,62 +276,66 @@
         "Animal (Expanded Edition)": {
             "listens": 2,
             "Your Love Is My Drug": 2
+        },
+        "High Road": {
+            "listens": 1,
+            "Chasing Thunder": 1
         }
     },
     "Eagles Of Death Metal": {
-        "listens": 2,
+        "listens": 3,
         "Rainbow": {
-            "listens": 2,
-            "Let 'Em Talk (feat. Eagles of Death Metal)": 2
+            "listens": 3,
+            "Let 'Em Talk (feat. Eagles of Death Metal)": 3
         }
     },
     "True Damage": {
-        "listens": 1,
+        "listens": 2,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         }
     },
     "Becky G": {
-        "listens": 1,
+        "listens": 2,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         }
     },
     "Keke Palmer": {
-        "listens": 1,
+        "listens": 2,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         }
     },
     "JEON SOYEON": {
-        "listens": 1,
+        "listens": 2,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         }
     },
     "Duckwrth": {
-        "listens": 1,
+        "listens": 2,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         }
     },
     "Thutmose": {
-        "listens": 1,
+        "listens": 2,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         }
     },
     "League of Legends": {
-        "listens": 2,
+        "listens": 3,
         "GIANTS": {
-            "listens": 1,
-            "GIANTS": 1
+            "listens": 2,
+            "GIANTS": 2
         },
         "POP/STARS": {
             "listens": 1,
@@ -317,10 +343,14 @@
         }
     },
     "Zedd": {
-        "listens": 1,
+        "listens": 2,
         "The Middle": {
             "listens": 1,
             "The Middle": 1
+        },
+        "Stay": {
+            "listens": 1,
+            "Stay": 1
         }
     },
     "Maren Morris": {
@@ -338,33 +368,33 @@
         }
     },
     "Set It Off": {
-        "listens": 1,
+        "listens": 2,
         "Why Do I (with Hatsune Miku)": {
-            "listens": 1,
-            "Why Do I (with Hatsune Miku)": 1
+            "listens": 2,
+            "Why Do I (with Hatsune Miku)": 2
         }
     },
     "Hatsune Miku": {
-        "listens": 5,
+        "listens": 11,
         "Why Do I (with Hatsune Miku)": {
-            "listens": 1,
-            "Why Do I (with Hatsune Miku)": 1
+            "listens": 2,
+            "Why Do I (with Hatsune Miku)": 2
         },
         "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc": {
             "listens": 1,
             "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)": 1
         },
         "Digital Girl": {
-            "listens": 1,
-            "Digital Girl": 1
+            "listens": 2,
+            "Digital Girl": 2
         },
         "Ievan Polkka (Remastered 2024)": {
-            "listens": 1,
-            "Ievan Polkka - Remastered 2024": 1
+            "listens": 3,
+            "Ievan Polkka - Remastered 2024": 3
         },
         "Miku": {
-            "listens": 1,
-            "Miku": 1
+            "listens": 3,
+            "Miku": 3
         }
     },
     "Rudaki": {
@@ -382,17 +412,17 @@
         }
     },
     "Jasmine Sandlas": {
-        "listens": 1,
+        "listens": 3,
         "Street Dancer 3D": {
-            "listens": 1,
-            "Illegal Weapon 2.0": 1
+            "listens": 3,
+            "Illegal Weapon 2.0": 3
         }
     },
     "Garry Sandhu": {
-        "listens": 1,
+        "listens": 3,
         "Street Dancer 3D": {
-            "listens": 1,
-            "Illegal Weapon 2.0": 1
+            "listens": 3,
+            "Illegal Weapon 2.0": 3
         }
     },
     "Prem & Hardeep": {
@@ -417,10 +447,14 @@
         }
     },
     "Neha Kakkar": {
-        "listens": 1,
+        "listens": 2,
         "Baar Baar Dekho (Original Motion Picture Soundtrack)": {
             "listens": 1,
             "Kala Chashma": 1
+        },
+        "Dheeme Dheeme (From \"Pati Patni Aur Woh\")": {
+            "listens": 1,
+            "Dheeme Dheeme (From \"Pati Patni Aur Woh\")": 1
         }
     },
     "Indeep Bakshi": {
@@ -463,45 +497,45 @@
         }
     },
     "Die Atzen": {
-        "listens": 1,
+        "listens": 2,
         "Atzen Musik Vol.1, 2 & 3": {
-            "listens": 1,
-            "Disco Pogo": 1
+            "listens": 2,
+            "Disco Pogo": 2
         }
     },
     "Sukhbir": {
-        "listens": 3,
+        "listens": 4,
         "Good Newwz": {
-            "listens": 3,
-            "Sauda Khara Khara - From \"Good Newwz\"": 3
+            "listens": 4,
+            "Sauda Khara Khara - From \"Good Newwz\"": 4
         }
     },
     "Dhvani Bhanushali": {
-        "listens": 3,
+        "listens": 4,
         "Good Newwz": {
-            "listens": 3,
-            "Sauda Khara Khara - From \"Good Newwz\"": 3
+            "listens": 4,
+            "Sauda Khara Khara - From \"Good Newwz\"": 4
         }
     },
     "Dj Chetas": {
-        "listens": 3,
+        "listens": 4,
         "Good Newwz": {
-            "listens": 3,
-            "Sauda Khara Khara - From \"Good Newwz\"": 3
+            "listens": 4,
+            "Sauda Khara Khara - From \"Good Newwz\"": 4
         }
     },
     "Lijo George": {
-        "listens": 3,
+        "listens": 4,
         "Good Newwz": {
-            "listens": 3,
-            "Sauda Khara Khara - From \"Good Newwz\"": 3
+            "listens": 4,
+            "Sauda Khara Khara - From \"Good Newwz\"": 4
         }
     },
     "Kumaar": {
-        "listens": 3,
+        "listens": 4,
         "Good Newwz": {
-            "listens": 3,
-            "Sauda Khara Khara - From \"Good Newwz\"": 3
+            "listens": 4,
+            "Sauda Khara Khara - From \"Good Newwz\"": 4
         }
     },
     "Kenshi Yonezu": {
@@ -512,82 +546,102 @@
         }
     },
     "Pritam": {
-        "listens": 2,
+        "listens": 4,
         "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)": {
-            "listens": 2,
-            "What Jhumka ?": 2
+            "listens": 3,
+            "What Jhumka ?": 3
+        },
+        "R...Rajkumar (Original Motion Picture Soundtrack)": {
+            "listens": 1,
+            "Gandi Baat": 1
         }
     },
     "Arijit Singh": {
-        "listens": 2,
+        "listens": 3,
         "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)": {
-            "listens": 2,
-            "What Jhumka ?": 2
+            "listens": 3,
+            "What Jhumka ?": 3
         }
     },
     "Jonita Gandhi": {
-        "listens": 2,
+        "listens": 3,
         "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)": {
-            "listens": 2,
-            "What Jhumka ?": 2
+            "listens": 3,
+            "What Jhumka ?": 3
         }
     },
     "Ranveer Singh": {
-        "listens": 2,
+        "listens": 3,
         "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)": {
-            "listens": 2,
-            "What Jhumka ?": 2
+            "listens": 3,
+            "What Jhumka ?": 3
         }
     },
     "Amitabh Bhattacharya": {
-        "listens": 2,
+        "listens": 5,
         "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)": {
+            "listens": 3,
+            "What Jhumka ?": 3
+        },
+        "Bhediya (Original Motion Picture Soundtrack)": {
             "listens": 2,
-            "What Jhumka ?": 2
+            "Thumkeshwari": 2
         }
     },
     "wowaka": {
-        "listens": 2,
+        "listens": 5,
         "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d": {
-            "listens": 2,
-            "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30fb\u30c0\u30f3\u30b9\u30db\u30fc\u30eb -MIKUNOPOLIS in LOS ANGELES Live-": 2
+            "listens": 5,
+            "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30fb\u30c0\u30f3\u30b9\u30db\u30fc\u30eb -MIKUNOPOLIS in LOS ANGELES Live-": 5
         }
     },
     "Dreamcatcher": {
-        "listens": 3,
+        "listens": 5,
         "\uff3bDystopia : Road to Utopia\uff3d": {
-            "listens": 2,
-            "4 Memory": 2
+            "listens": 3,
+            "4 Memory": 3
         },
         "[Dystopia : Lose Myself]": {
             "listens": 1,
             "BOCA": 1
+        },
+        "[VillainS]": {
+            "listens": 1,
+            "OOTD": 1
         }
     },
     "Black Gryph0n": {
-        "listens": 3,
+        "listens": 4,
         "Jester (Pomni's Song)": {
             "listens": 2,
             "Jester (Pomni's Song)": 2
         },
         "Insane": {
-            "listens": 1,
-            "Insane": 1
+            "listens": 2,
+            "Insane": 2
         }
     },
     "Lizzie Freeman": {
-        "listens": 2,
+        "listens": 3,
         "Jester (Pomni's Song)": {
             "listens": 2,
             "Jester (Pomni's Song)": 2
+        },
+        "Digital Hallucination": {
+            "listens": 1,
+            "Digital Hallucination": 1
         }
     },
     "YOASOBI": {
-        "listens": 3,
+        "listens": 4,
         "THE BOOK 3": {
             "listens": 3,
             "\u30a2\u30a4\u30c9\u30eb": 2,
             "\u795d\u798f": 1
+        },
+        "\u591c\u306b\u99c6\u3051\u308b": {
+            "listens": 1,
+            "\u591c\u306b\u99c6\u3051\u308b": 1
         }
     },
     "Satsuki": {
@@ -626,10 +680,10 @@
         }
     },
     "Kygo": {
-        "listens": 7,
+        "listens": 8,
         "Whatever": {
-            "listens": 5,
-            "Whatever": 5
+            "listens": 6,
+            "Whatever": 6
         },
         "Cloud Nine": {
             "listens": 1,
@@ -641,34 +695,39 @@
         }
     },
     "Ava Max": {
-        "listens": 6,
+        "listens": 9,
         "Whatever": {
-            "listens": 5,
-            "Whatever": 5
+            "listens": 6,
+            "Whatever": 6
         },
         "Heaven & Hell": {
             "listens": 1,
             "Kings & Queens": 1
+        },
+        "The Motto": {
+            "listens": 2,
+            "The Motto": 2
         }
     },
     "Kermit": {
-        "listens": 1,
+        "listens": 2,
         "The Muppet Movie (Original Motion Picture Soundtrack)": {
-            "listens": 1,
-            "Rainbow Connection - From \"The Muppet Movie\"/Soundtrack Version": 1
+            "listens": 2,
+            "Rainbow Connection - From \"The Muppet Movie\"/Soundtrack Version": 2
         }
     },
     "GRiZ": {
-        "listens": 18,
+        "listens": 23,
         "Rainbow Brain": {
-            "listens": 8,
+            "listens": 9,
             "Other Side of Jupiter": 1,
             "Harmony": 1,
             "Burn Up The Floor": 1,
             "y o u - a r e . i - c a n": 1,
             "Tie-Dye Sky": 2,
             "Feel It All": 1,
-            "Daily Routine": 1
+            "Daily Routine": 1,
+            "4 2": 1
         },
         "Rebel Era": {
             "listens": 2,
@@ -679,8 +738,9 @@
             "For The Love": 1
         },
         "Ride Waves": {
-            "listens": 1,
-            "Maybe": 1
+            "listens": 2,
+            "Maybe": 1,
+            "It Gets Better": 1
         },
         "Mad Liberation": {
             "listens": 1,
@@ -699,12 +759,21 @@
             "Supa Fly": 1
         },
         "Good Will Prevail": {
-            "listens": 1,
-            "Before I Go": 1
+            "listens": 2,
+            "Before I Go": 1,
+            "Can't Hold Me Down": 1
         },
         "Feel No Pain": {
             "listens": 1,
             "Feel No Pain": 1
+        },
+        "Bangers[7].Zip": {
+            "listens": 1,
+            "MEGAZORD": 1
+        },
+        "Chasing The Golden Hour, Pt. 3": {
+            "listens": 1,
+            "Floating": 1
         }
     },
     "Jantsen": {
@@ -715,7 +784,7 @@
         }
     },
     "Chrishira Perrier": {
-        "listens": 2,
+        "listens": 3,
         "Rainbow Brain": {
             "listens": 1,
             "Feel It All": 1
@@ -723,6 +792,10 @@
         "Bangers[5].Zip": {
             "listens": 1,
             "My Friends and I Pt. 3": 1
+        },
+        "Bangers[7].Zip": {
+            "listens": 1,
+            "MEGAZORD": 1
         }
     },
     "Big Gigantic": {
@@ -733,7 +806,7 @@
         }
     },
     "ProbCause": {
-        "listens": 2,
+        "listens": 3,
         "Rainbow Brain": {
             "listens": 1,
             "Daily Routine": 1
@@ -741,6 +814,10 @@
         "Bangers[5].Zip": {
             "listens": 1,
             "My Friends and I Pt. 3": 1
+        },
+        "Bangers[7].Zip": {
+            "listens": 1,
+            "MEGAZORD": 1
         }
     },
     "CloZee": {
@@ -867,7 +944,7 @@
         }
     },
     "Calvin Harris": {
-        "listens": 4,
+        "listens": 5,
         "Motion": {
             "listens": 1,
             "Summer": 1
@@ -877,8 +954,8 @@
             "This Is What You Came For": 1
         },
         "Talk That Talk": {
-            "listens": 2,
-            "We Found Love": 2
+            "listens": 3,
+            "We Found Love": 3
         }
     },
     "Lana Del Rey": {
@@ -917,17 +994,22 @@
         }
     },
     "Deedee Magno Hall": {
-        "listens": 1,
+        "listens": 2,
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
             "listens": 1,
             "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1
+        },
+        "Steven Universe The Movie (Original Soundtrack)": {
+            "listens": 1,
+            "Independent Together (feat. Ted Leo, Deedee Magno Hall & Aimee Mann)": 1
         }
     },
     "Estelle": {
-        "listens": 3,
+        "listens": 4,
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
-            "listens": 1,
-            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1
+            "listens": 2,
+            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1,
+            "Stronger Than You (feat. Estelle)": 1
         },
         "Shine": {
             "listens": 2,
@@ -1005,10 +1087,10 @@
         }
     },
     "Goth Babe": {
-        "listens": 2,
+        "listens": 3,
         "Weekend Friend": {
-            "listens": 2,
-            "Weekend Friend": 2
+            "listens": 3,
+            "Weekend Friend": 3
         }
     },
     "Spiritual Frequencies": {
@@ -1287,10 +1369,14 @@
         }
     },
     "Ed Sheeran": {
-        "listens": 1,
+        "listens": 3,
         "\u00f7 (Deluxe)": {
             "listens": 1,
             "Perfect": 1
+        },
+        "=": {
+            "listens": 2,
+            "Shivers": 2
         }
     },
     "Lady Gaga": {
@@ -1301,24 +1387,24 @@
         }
     },
     "Gorgon City": {
-        "listens": 1,
+        "listens": 2,
         "Biggest Regret (feat. Bbyafricka) [Drumsheds Version]": {
-            "listens": 1,
-            "Biggest Regret (feat. Bbyafricka) - Drumsheds Version": 1
+            "listens": 2,
+            "Biggest Regret (feat. Bbyafricka) - Drumsheds Version": 2
         }
     },
     "Bbyafricka": {
-        "listens": 1,
+        "listens": 2,
         "Biggest Regret (feat. Bbyafricka) [Drumsheds Version]": {
-            "listens": 1,
-            "Biggest Regret (feat. Bbyafricka) - Drumsheds Version": 1
+            "listens": 2,
+            "Biggest Regret (feat. Bbyafricka) - Drumsheds Version": 2
         }
     },
     "Daryl Hall & John Oates": {
-        "listens": 1,
+        "listens": 2,
         "Voices": {
-            "listens": 1,
-            "You Make My Dreams (Come True)": 1
+            "listens": 2,
+            "You Make My Dreams (Come True)": 2
         }
     },
     "O-Zone": {
@@ -1378,11 +1464,27 @@
         }
     },
     "Rezz": {
-        "listens": 2,
+        "listens": 6,
         "Spiral": {
             "listens": 2,
             "Let Me In": 1,
             "Paper Walls": 1
+        },
+        "EDGE (2024 Version)": {
+            "listens": 1,
+            "EDGE - 2024 Version": 1
+        },
+        "IT'S NOT A PHASE": {
+            "listens": 1,
+            "Haunted Eyes": 1
+        },
+        "Infraliminal": {
+            "listens": 1,
+            "Infraliminal": 1
+        },
+        "Nightmare On Rezz Street 2 Mix": {
+            "listens": 1,
+            "Intro": 1
         }
     },
     "fknsyd": {
@@ -1414,7 +1516,7 @@
         }
     },
     "Ti\u00ebsto": {
-        "listens": 3,
+        "listens": 6,
         "Mwaki (Ti\u00ebsto's VIP Mix)": {
             "listens": 1,
             "Mwaki - Ti\u00ebsto's VIP Mix": 1
@@ -1424,8 +1526,12 @@
             "CONTIGO (with Ti\u00ebsto)": 1
         },
         "Waterslides": {
-            "listens": 1,
-            "Waterslides": 1
+            "listens": 2,
+            "Waterslides": 2
+        },
+        "The Motto": {
+            "listens": 2,
+            "The Motto": 2
         }
     },
     "Sofiya Nzau": {
@@ -1457,10 +1563,14 @@
         }
     },
     "David Guetta": {
-        "listens": 1,
+        "listens": 2,
         "Baby Don't Hurt Me": {
             "listens": 1,
             "Baby Don't Hurt Me": 1
+        },
+        "Listen (Deluxe)": {
+            "listens": 1,
+            "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)": 1
         }
     },
     "Anne-Marie": {
@@ -1492,14 +1602,26 @@
         }
     },
     "Porter Robinson": {
-        "listens": 5,
+        "listens": 9,
         "Cheerleader": {
-            "listens": 3,
-            "Cheerleader": 3
+            "listens": 4,
+            "Cheerleader": 4
         },
         "Russian Roulette": {
             "listens": 2,
             "Russian Roulette": 2
+        },
+        "Language": {
+            "listens": 1,
+            "Language": 1
+        },
+        "Worlds": {
+            "listens": 1,
+            "Sea Of Voices": 1
+        },
+        "Nurture": {
+            "listens": 1,
+            "Blossom": 1
         }
     },
     "Talib Kweli": {
@@ -1618,7 +1740,7 @@
         }
     },
     "LiQWYD": {
-        "listens": 4,
+        "listens": 6,
         "Another Time": {
             "listens": 1,
             "Another Time": 1
@@ -1630,13 +1752,21 @@
         "Last Time": {
             "listens": 2,
             "Last Time": 2
+        },
+        "Good Vibes": {
+            "listens": 2,
+            "Good Vibes": 2
         }
     },
     "Luke Bergs": {
-        "listens": 1,
+        "listens": 3,
         "Adventures": {
             "listens": 1,
             "Adventures": 1
+        },
+        "Good Vibes": {
+            "listens": 2,
+            "Good Vibes": 2
         }
     },
     "Markvard": {
@@ -1654,17 +1784,17 @@
         }
     },
     "Ross Lynch": {
-        "listens": 1,
+        "listens": 2,
         "Teen Beach Movie": {
-            "listens": 1,
-            "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version": 1
+            "listens": 2,
+            "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version": 2
         }
     },
     "Maia Mitchell": {
-        "listens": 1,
+        "listens": 2,
         "Teen Beach Movie": {
-            "listens": 1,
-            "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version": 1
+            "listens": 2,
+            "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version": 2
         }
     },
     "Vance Joy": {
@@ -1696,7 +1826,7 @@
         }
     },
     "Mau P": {
-        "listens": 2,
+        "listens": 3,
         "BEATS FOR THE UNDERGROUND": {
             "listens": 1,
             "BEATS FOR THE UNDERGROUND": 1
@@ -1704,13 +1834,17 @@
         "Drugs From Amsterdam": {
             "listens": 1,
             "Drugs From Amsterdam": 1
+        },
+        "Dress Code": {
+            "listens": 1,
+            "Dress Code": 1
         }
     },
     "Avicii": {
-        "listens": 1,
+        "listens": 2,
         "True": {
-            "listens": 1,
-            "Wake Me Up": 1
+            "listens": 2,
+            "Wake Me Up": 2
         }
     },
     "Zak Abel": {
@@ -1728,17 +1862,21 @@
         }
     },
     "The Chainsmokers": {
-        "listens": 2,
+        "listens": 3,
         "Memories...Do Not Open": {
             "listens": 2,
             "Something Just Like This": 2
+        },
+        "Don't Let Me Down": {
+            "listens": 1,
+            "Don't Let Me Down": 1
         }
     },
     "Baasik": {
-        "listens": 1,
+        "listens": 2,
         "Insane": {
-            "listens": 1,
-            "Insane": 1
+            "listens": 2,
+            "Insane": 2
         }
     },
     "KAROL G": {
@@ -1760,24 +1898,29 @@
         }
     },
     "Sofi Tukker": {
-        "listens": 1,
+        "listens": 2,
         "DANCING ON THE PEOPLE": {
             "listens": 1,
             "Purple Hat": 1
+        },
+        "Sacrifice": {
+            "listens": 1,
+            "Sacrifice": 1
         }
     },
     "Caramella Girls": {
-        "listens": 1,
+        "listens": 2,
         "Supergott (Speedy Mixes)": {
-            "listens": 1,
-            "Caramelldansen": 1
+            "listens": 2,
+            "Caramelldansen": 2
         }
     },
     "Daft Punk": {
-        "listens": 2,
+        "listens": 4,
         "Discovery": {
-            "listens": 2,
-            "Harder, Better, Faster, Stronger": 2
+            "listens": 4,
+            "Harder, Better, Faster, Stronger": 3,
+            "Something About Us": 1
         }
     },
     "Icona Pop": {
@@ -1788,10 +1931,10 @@
         }
     },
     "Rudimental": {
-        "listens": 2,
+        "listens": 3,
         "Waterslides": {
-            "listens": 1,
-            "Waterslides": 1
+            "listens": 2,
+            "Waterslides": 2
         },
         "Alibi (feat. Rudimental)": {
             "listens": 1,
@@ -1799,17 +1942,17 @@
         }
     },
     "Absolutely": {
-        "listens": 1,
+        "listens": 2,
         "Waterslides": {
-            "listens": 1,
-            "Waterslides": 1
+            "listens": 2,
+            "Waterslides": 2
         }
     },
     "Rainych": {
-        "listens": 2,
+        "listens": 3,
         "Say So (Japanese Version)": {
-            "listens": 2,
-            "Say So - Japanese Version": 2
+            "listens": 3,
+            "Say So - Japanese Version": 3
         }
     },
     "Ella Henderson": {
@@ -1820,14 +1963,14 @@
         }
     },
     "Rihanna": {
-        "listens": 3,
+        "listens": 4,
         "This Is What You Came For": {
             "listens": 1,
             "This Is What You Came For": 1
         },
         "Talk That Talk": {
-            "listens": 2,
-            "We Found Love": 2
+            "listens": 3,
+            "We Found Love": 3
         }
     },
     "MKTO": {
@@ -1838,10 +1981,10 @@
         }
     },
     "KIRA": {
-        "listens": 1,
+        "listens": 2,
         "Digital Girl": {
-            "listens": 1,
-            "Digital Girl": 1
+            "listens": 2,
+            "Digital Girl": 2
         }
     },
     "Keys N Krates": {
@@ -1950,10 +2093,10 @@
         }
     },
     "LamazeP": {
-        "listens": 2,
+        "listens": 4,
         "Exit Trance Presents Umauma Dekiru Trance Wo Tsukuttemita 7 Shiharai Wa Makasero (Baribari Standard Edition)": {
-            "listens": 2,
-            "Poppippo": 2
+            "listens": 4,
+            "Poppippo": 4
         }
     },
     "ALLEYCVT": {
@@ -1964,10 +2107,14 @@
         }
     },
     "Kanye West": {
-        "listens": 2,
+        "listens": 3,
         "Shine": {
             "listens": 2,
             "American Boy": 2
+        },
+        "Watch The Throne": {
+            "listens": 1,
+            "Ni**as In Paris": 1
         }
     },
     "Bruno Mars": {
@@ -1978,10 +2125,10 @@
         }
     },
     "Otomania": {
-        "listens": 1,
+        "listens": 3,
         "Ievan Polkka (Remastered 2024)": {
-            "listens": 1,
-            "Ievan Polkka - Remastered 2024": 1
+            "listens": 3,
+            "Ievan Polkka - Remastered 2024": 3
         }
     },
     "K/DA": {
@@ -2066,20 +2213,23 @@
         }
     },
     "Imagine Dragons": {
-        "listens": 5,
+        "listens": 9,
         "Evolve": {
             "listens": 2,
             "Believer": 1,
             "I\u2019ll Make It Up To You": 1
         },
         "Origins (Deluxe)": {
-            "listens": 2,
+            "listens": 5,
             "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"": 1,
-            "Love": 1
+            "Love": 2,
+            "Cool Out": 1,
+            "Burn Out": 1
         },
         "Mercury - Acts 1 & 2": {
-            "listens": 1,
-            "My Life": 1
+            "listens": 2,
+            "My Life": 1,
+            "I Wish": 1
         }
     },
     "Doja Cat": {
@@ -2090,10 +2240,14 @@
         }
     },
     "Ariana Grande": {
-        "listens": 1,
+        "listens": 3,
         "Christmas Kisses": {
+            "listens": 2,
+            "Love Is Everything": 2
+        },
+        "Dangerous Woman": {
             "listens": 1,
-            "Love Is Everything": 1
+            "Into You": 1
         }
     },
     "Lynyrd Skynyrd": {
@@ -2104,10 +2258,10 @@
         }
     },
     "Sia": {
-        "listens": 1,
+        "listens": 2,
         "Everyday Is Christmas (Deluxe Edition)": {
-            "listens": 1,
-            "My Old Santa Claus": 1
+            "listens": 2,
+            "My Old Santa Claus": 2
         }
     },
     "Miley Cyrus": {
@@ -2129,7 +2283,7 @@
         }
     },
     "Lorde": {
-        "listens": 3,
+        "listens": 4,
         "Melodrama": {
             "listens": 2,
             "Hard Feelings/Loveless": 1,
@@ -2138,6 +2292,10 @@
         "Pure Heroine": {
             "listens": 1,
             "Ribs": 1
+        },
+        "Solar Power": {
+            "listens": 1,
+            "The Path": 1
         }
     },
     "ARTY": {
@@ -2198,31 +2356,31 @@
         }
     },
     "Adventure Time": {
-        "listens": 1,
+        "listens": 2,
         "Adventure Time, Vol. 3 (Original Soundtrack)": {
-            "listens": 1,
-            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 1
+            "listens": 2,
+            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 2
         }
     },
     "Olivia Olson": {
-        "listens": 1,
+        "listens": 2,
         "Adventure Time, Vol. 3 (Original Soundtrack)": {
-            "listens": 1,
-            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 1
+            "listens": 2,
+            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 2
         }
     },
     "Niki Yang": {
-        "listens": 1,
+        "listens": 2,
         "Adventure Time, Vol. 3 (Original Soundtrack)": {
-            "listens": 1,
-            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 1
+            "listens": 2,
+            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 2
         }
     },
     "Hynden Walch": {
-        "listens": 1,
+        "listens": 2,
         "Adventure Time, Vol. 3 (Original Soundtrack)": {
-            "listens": 1,
-            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 1
+            "listens": 2,
+            "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 2
         }
     },
     "NEIKED": {
@@ -2254,17 +2412,17 @@
         }
     },
     "Anamanaguchi": {
-        "listens": 1,
+        "listens": 3,
         "Miku": {
-            "listens": 1,
-            "Miku": 1
+            "listens": 3,
+            "Miku": 3
         }
     },
     "Ado": {
-        "listens": 1,
+        "listens": 2,
         "Chocolat Cadabra": {
-            "listens": 1,
-            "Chocolat Cadabra": 1
+            "listens": 2,
+            "Chocolat Cadabra": 2
         }
     },
     "Foster The People": {
@@ -2303,10 +2461,10 @@
         }
     },
     "Dr. Fresch": {
-        "listens": 1,
+        "listens": 2,
         "Bricks": {
-            "listens": 1,
-            "Bricks": 1
+            "listens": 2,
+            "Bricks": 2
         }
     },
     "Christina Perri": {
@@ -2317,17 +2475,25 @@
         }
     },
     "Tame Impala": {
-        "listens": 1,
+        "listens": 3,
         "Currents": {
+            "listens": 2,
+            "The Less I Know The Better": 2
+        },
+        "Lonerism": {
             "listens": 1,
-            "The Less I Know The Better": 1
+            "Endors Toi": 1
         }
     },
     "Toby Fox": {
-        "listens": 1,
+        "listens": 2,
         "UNDERTALE Soundtrack": {
             "listens": 1,
             "Ghost Fight": 1
+        },
+        "DELTARUNE Chapter 2 (Original Game Soundtrack)": {
+            "listens": 1,
+            "BIG SHOT": 1
         }
     },
     "Subfer": {
@@ -2419,6 +2585,936 @@
         "Crying On The Dancefloor": {
             "listens": 1,
             "Crying On The Dancefloor": 1
+        }
+    },
+    "The Internet": {
+        "listens": 1,
+        "Hive Mind": {
+            "listens": 1,
+            "Hold On": 1
+        }
+    },
+    "AFROJACK": {
+        "listens": 1,
+        "Listen (Deluxe)": {
+            "listens": 1,
+            "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)": 1
+        }
+    },
+    "Bebe Rexha": {
+        "listens": 1,
+        "Listen (Deluxe)": {
+            "listens": 1,
+            "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)": 1
+        }
+    },
+    "Nicki Minaj": {
+        "listens": 1,
+        "Listen (Deluxe)": {
+            "listens": 1,
+            "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)": 1
+        }
+    },
+    "Bee Gees": {
+        "listens": 1,
+        "Greatest": {
+            "listens": 1,
+            "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack": 1
+        }
+    },
+    "Heavy Dogs": {
+        "listens": 1,
+        "Futher Outside the Zone": {
+            "listens": 1,
+            "Futher Outside the Zone": 1
+        }
+    },
+    "Club Unicorn": {
+        "listens": 1,
+        "I'm from Another Dimension (From \"Star vs the Forces of Evil\")": {
+            "listens": 1,
+            "I'm from Another Dimension (From \"Star vs the Forces of Evil\")": 1
+        }
+    },
+    "LUM!X": {
+        "listens": 1,
+        "Monster": {
+            "listens": 1,
+            "Monster": 1
+        }
+    },
+    "Gabry Ponte": {
+        "listens": 1,
+        "Monster": {
+            "listens": 1,
+            "Monster": 1
+        }
+    },
+    "MEDUZA": {
+        "listens": 3,
+        "Paradise": {
+            "listens": 1,
+            "Paradise (feat. Dermot Kennedy)": 1
+        },
+        "Piece Of Your Heart (Alok Remix)": {
+            "listens": 1,
+            "Piece Of Your Heart - Alok Remix": 1
+        },
+        "MEDUZA": {
+            "listens": 1,
+            "Ecstasy": 1
+        }
+    },
+    "Dermot Kennedy": {
+        "listens": 1,
+        "Paradise": {
+            "listens": 1,
+            "Paradise (feat. Dermot Kennedy)": 1
+        }
+    },
+    "AJR": {
+        "listens": 2,
+        "Bummerland": {
+            "listens": 1,
+            "Bummerland": 1
+        },
+        "OK ORCHESTRA": {
+            "listens": 1,
+            "Bang!": 1
+        }
+    },
+    "Sid Sriram": {
+        "listens": 1,
+        "Adithya Varma": {
+            "listens": 1,
+            "Yaen Ennai Pirindhaai": 1
+        }
+    },
+    "Earth, Wind & Fire": {
+        "listens": 1,
+        "I Am": {
+            "listens": 1,
+            "Boogie Wonderland": 1
+        }
+    },
+    "The Emotions": {
+        "listens": 1,
+        "I Am": {
+            "listens": 1,
+            "Boogie Wonderland": 1
+        }
+    },
+    "5 Seconds of Summer": {
+        "listens": 1,
+        "Easier (Seeb Remix)": {
+            "listens": 1,
+            "Easier - Seeb Remix": 1
+        }
+    },
+    "Seeb": {
+        "listens": 1,
+        "Easier (Seeb Remix)": {
+            "listens": 1,
+            "Easier - Seeb Remix": 1
+        }
+    },
+    "Post Malone": {
+        "listens": 6,
+        "Hollywood's Bleeding": {
+            "listens": 4,
+            "I Know": 1,
+            "Goodbyes (feat. Young Thug)": 1,
+            "Wow.": 1,
+            "Take What You Want (feat. Ozzy Osbourne & Travis Scott)": 1
+        },
+        "Stoney (Deluxe)": {
+            "listens": 1,
+            "I Fall Apart": 1
+        },
+        "beerbongs & bentleys": {
+            "listens": 1,
+            "Psycho (feat. Ty Dolla $ign)": 1
+        }
+    },
+    "3LAU": {
+        "listens": 1,
+        "Better With You": {
+            "listens": 1,
+            "Better With You": 1
+        }
+    },
+    "Justin Caruso": {
+        "listens": 1,
+        "Better With You": {
+            "listens": 1,
+            "Better With You": 1
+        }
+    },
+    "Iselin": {
+        "listens": 1,
+        "Better With You": {
+            "listens": 1,
+            "Better With You": 1
+        }
+    },
+    "ILLENIUM": {
+        "listens": 2,
+        "Fallen Embers": {
+            "listens": 2,
+            "Crazy Times": 1,
+            "Hearts on Fire": 1
+        }
+    },
+    "Said The Sky": {
+        "listens": 1,
+        "Fallen Embers": {
+            "listens": 1,
+            "Crazy Times": 1
+        }
+    },
+    "Rock Mafia": {
+        "listens": 1,
+        "Fallen Embers": {
+            "listens": 1,
+            "Crazy Times": 1
+        }
+    },
+    "Josie Dunne": {
+        "listens": 1,
+        "Last Day": {
+            "listens": 1,
+            "Last Day": 1
+        }
+    },
+    "Tai Verdes": {
+        "listens": 1,
+        "AOK": {
+            "listens": 1,
+            "AOK": 1
+        }
+    },
+    "Young Thug": {
+        "listens": 1,
+        "Hollywood's Bleeding": {
+            "listens": 1,
+            "Goodbyes (feat. Young Thug)": 1
+        }
+    },
+    "John Denver": {
+        "listens": 1,
+        "The John Denver Collection, Vol. 1: Take Me Home Country Roads": {
+            "listens": 1,
+            "Take Me Home, Country Roads - Rerecorded": 1
+        }
+    },
+    "SIDEPIECE": {
+        "listens": 1,
+        "What You Need/Stimulate": {
+            "listens": 1,
+            "What You Need": 1
+        }
+    },
+    "Taylor Swift": {
+        "listens": 2,
+        "Red": {
+            "listens": 1,
+            "22": 1
+        },
+        "1989": {
+            "listens": 1,
+            "Wildest Dreams": 1
+        }
+    },
+    "Marcus James": {
+        "listens": 1,
+        "Good Enough": {
+            "listens": 1,
+            "Good Enough": 1
+        }
+    },
+    "RUNN": {
+        "listens": 1,
+        "Good Enough": {
+            "listens": 1,
+            "Good Enough": 1
+        }
+    },
+    "Men Without Hats": {
+        "listens": 1,
+        "Rhythm of Youth": {
+            "listens": 1,
+            "The Safety Dance": 1
+        }
+    },
+    "FISHER": {
+        "listens": 1,
+        "Losing It": {
+            "listens": 1,
+            "Losing It": 1
+        }
+    },
+    "Sara Landry": {
+        "listens": 1,
+        "Legacy": {
+            "listens": 1,
+            "Legacy": 1
+        }
+    },
+    "JOYRYDE": {
+        "listens": 1,
+        "HOT DRUM": {
+            "listens": 1,
+            "HOT DRUM": 1
+        }
+    },
+    "Owl City": {
+        "listens": 2,
+        "Ocean Eyes": {
+            "listens": 2,
+            "Fireflies": 2
+        }
+    },
+    "MKLA": {
+        "listens": 1,
+        "IT'S NOT A PHASE": {
+            "listens": 1,
+            "Haunted Eyes": 1
+        }
+    },
+    "Blue-ji": {
+        "listens": 1,
+        "Blue-ji": {
+            "listens": 1,
+            "Tiger": 1
+        }
+    },
+    "REZZMAU5": {
+        "listens": 1,
+        "Infraliminal": {
+            "listens": 1,
+            "Infraliminal": 1
+        }
+    },
+    "deadmau5": {
+        "listens": 2,
+        "Infraliminal": {
+            "listens": 1,
+            "Infraliminal": 1
+        },
+        "Sacrifice": {
+            "listens": 1,
+            "Sacrifice": 1
+        }
+    },
+    "Regard": {
+        "listens": 1,
+        "You": {
+            "listens": 1,
+            "You": 1
+        }
+    },
+    "Troye Sivan": {
+        "listens": 2,
+        "You": {
+            "listens": 1,
+            "You": 1
+        },
+        "Blue Neighbourhood (Deluxe)": {
+            "listens": 1,
+            "YOUTH": 1
+        }
+    },
+    "Tate McRae": {
+        "listens": 1,
+        "You": {
+            "listens": 1,
+            "You": 1
+        }
+    },
+    "NF": {
+        "listens": 1,
+        "Perception": {
+            "listens": 1,
+            "Let You Down": 1
+        }
+    },
+    "Alok": {
+        "listens": 1,
+        "Piece Of Your Heart (Alok Remix)": {
+            "listens": 1,
+            "Piece Of Your Heart - Alok Remix": 1
+        }
+    },
+    "Goodboys": {
+        "listens": 1,
+        "Piece Of Your Heart (Alok Remix)": {
+            "listens": 1,
+            "Piece Of Your Heart - Alok Remix": 1
+        }
+    },
+    "Tove Lo": {
+        "listens": 1,
+        "Queen Of The Clouds": {
+            "listens": 1,
+            "Habits (Stay High)": 1
+        }
+    },
+    "Gym Class Heroes": {
+        "listens": 1,
+        "The Papercut Chronicles II": {
+            "listens": 1,
+            "Stereo Hearts (feat. Adam Levine)": 1
+        }
+    },
+    "Adam Levine": {
+        "listens": 1,
+        "The Papercut Chronicles II": {
+            "listens": 1,
+            "Stereo Hearts (feat. Adam Levine)": 1
+        }
+    },
+    "Amtrac": {
+        "listens": 1,
+        "1987": {
+            "listens": 1,
+            "Never Lost": 1
+        }
+    },
+    "Matroda": {
+        "listens": 1,
+        "Throw Your Hands": {
+            "listens": 1,
+            "Throw Your Hands": 1
+        }
+    },
+    "Dabin": {
+        "listens": 1,
+        "Fallen Embers": {
+            "listens": 1,
+            "Hearts on Fire": 1
+        }
+    },
+    "Lights": {
+        "listens": 1,
+        "Fallen Embers": {
+            "listens": 1,
+            "Hearts on Fire": 1
+        }
+    },
+    "Aimee Mann": {
+        "listens": 1,
+        "Steven Universe The Movie (Original Soundtrack)": {
+            "listens": 1,
+            "Independent Together (feat. Ted Leo, Deedee Magno Hall & Aimee Mann)": 1
+        }
+    },
+    "Ted Leo": {
+        "listens": 1,
+        "Steven Universe The Movie (Original Soundtrack)": {
+            "listens": 1,
+            "Independent Together (feat. Ted Leo, Deedee Magno Hall & Aimee Mann)": 1
+        }
+    },
+    "Hollywood Undead": {
+        "listens": 1,
+        "Hotel Kalifornia": {
+            "listens": 1,
+            "Ruin My Life": 1
+        }
+    },
+    "Ivan Gough": {
+        "listens": 1,
+        "In My Mind": {
+            "listens": 1,
+            "In My Mind (Axwell Radio Edit)": 1
+        }
+    },
+    "Feenixpawl feat. Georgi Kay": {
+        "listens": 1,
+        "In My Mind": {
+            "listens": 1,
+            "In My Mind (Axwell Radio Edit)": 1
+        }
+    },
+    "Axwell": {
+        "listens": 1,
+        "In My Mind": {
+            "listens": 1,
+            "In My Mind (Axwell Radio Edit)": 1
+        }
+    },
+    "Natasha Bedingfield": {
+        "listens": 1,
+        "Unwritten": {
+            "listens": 1,
+            "Unwritten": 1
+        }
+    },
+    "TheFatRat": {
+        "listens": 1,
+        "Monody (feat. Laura Brehm)": {
+            "listens": 1,
+            "Monody (feat. Laura Brehm)": 1
+        }
+    },
+    "Laura Brehm": {
+        "listens": 1,
+        "Monody (feat. Laura Brehm)": {
+            "listens": 1,
+            "Monody (feat. Laura Brehm)": 1
+        }
+    },
+    "Martin Garrix": {
+        "listens": 1,
+        "Gold Skies": {
+            "listens": 1,
+            "Animals": 1
+        }
+    },
+    "Sachin-Jigar": {
+        "listens": 2,
+        "Bhediya (Original Motion Picture Soundtrack)": {
+            "listens": 2,
+            "Thumkeshwari": 2
+        }
+    },
+    "Rashmeet Kaur": {
+        "listens": 2,
+        "Bhediya (Original Motion Picture Soundtrack)": {
+            "listens": 2,
+            "Thumkeshwari": 2
+        }
+    },
+    "Ash King": {
+        "listens": 2,
+        "Bhediya (Original Motion Picture Soundtrack)": {
+            "listens": 2,
+            "Thumkeshwari": 2
+        }
+    },
+    "Divya Kumar": {
+        "listens": 2,
+        "Bhediya (Original Motion Picture Soundtrack)": {
+            "listens": 2,
+            "Thumkeshwari": 2
+        }
+    },
+    "Mika Singh": {
+        "listens": 1,
+        "R...Rajkumar (Original Motion Picture Soundtrack)": {
+            "listens": 1,
+            "Gandi Baat": 1
+        }
+    },
+    "Kalpana Patowary": {
+        "listens": 1,
+        "R...Rajkumar (Original Motion Picture Soundtrack)": {
+            "listens": 1,
+            "Gandi Baat": 1
+        }
+    },
+    "Galantis": {
+        "listens": 1,
+        "Church": {
+            "listens": 1,
+            "Holy Water": 1
+        }
+    },
+    "OR3O": {
+        "listens": 1,
+        "Digital Hallucination": {
+            "listens": 1,
+            "Digital Hallucination": 1
+        }
+    },
+    "Kaivon": {
+        "listens": 1,
+        "Awakening": {
+            "listens": 1,
+            "I Know": 1
+        }
+    },
+    "Sage The Gemini": {
+        "listens": 1,
+        "Gas Pedal (Kyle Watson Remix)": {
+            "listens": 1,
+            "Gas Pedal - Kyle Watson Remix": 1
+        }
+    },
+    "Kyle Watson": {
+        "listens": 1,
+        "Gas Pedal (Kyle Watson Remix)": {
+            "listens": 1,
+            "Gas Pedal - Kyle Watson Remix": 1
+        }
+    },
+    "Iamsu!": {
+        "listens": 1,
+        "Gas Pedal (Kyle Watson Remix)": {
+            "listens": 1,
+            "Gas Pedal - Kyle Watson Remix": 1
+        }
+    },
+    "Krysta Rodriguez": {
+        "listens": 2,
+        "The Addams Family (Original Cast Recording)": {
+            "listens": 2,
+            "Pulled": 1,
+            "Crazier Than You": 1
+        }
+    },
+    "Adam Riegler": {
+        "listens": 1,
+        "The Addams Family (Original Cast Recording)": {
+            "listens": 1,
+            "Pulled": 1
+        }
+    },
+    "Tash Neal": {
+        "listens": 1,
+        "Good Will Prevail": {
+            "listens": 1,
+            "Can't Hold Me Down": 1
+        }
+    },
+    "French Montana": {
+        "listens": 1,
+        "Jungle Rules": {
+            "listens": 1,
+            "Unforgettable": 1
+        }
+    },
+    "Swae Lee": {
+        "listens": 1,
+        "Jungle Rules": {
+            "listens": 1,
+            "Unforgettable": 1
+        }
+    },
+    "Kaskade": {
+        "listens": 1,
+        "Sacrifice": {
+            "listens": 1,
+            "Sacrifice": 1
+        }
+    },
+    "Kx5": {
+        "listens": 1,
+        "Sacrifice": {
+            "listens": 1,
+            "Sacrifice": 1
+        }
+    },
+    "JAY-Z": {
+        "listens": 1,
+        "Watch The Throne": {
+            "listens": 1,
+            "Ni**as In Paris": 1
+        }
+    },
+    "Harry Belafonte": {
+        "listens": 1,
+        "Calypso": {
+            "listens": 1,
+            "Banana Boat (Day-O)": 1
+        }
+    },
+    "Ozzy Osbourne": {
+        "listens": 1,
+        "Hollywood's Bleeding": {
+            "listens": 1,
+            "Take What You Want (feat. Ozzy Osbourne & Travis Scott)": 1
+        }
+    },
+    "Travis Scott": {
+        "listens": 1,
+        "Hollywood's Bleeding": {
+            "listens": 1,
+            "Take What You Want (feat. Ozzy Osbourne & Travis Scott)": 1
+        }
+    },
+    "Ty Dolla $ign": {
+        "listens": 1,
+        "beerbongs & bentleys": {
+            "listens": 1,
+            "Psycho (feat. Ty Dolla $ign)": 1
+        }
+    },
+    "Puffy AmiYumi": {
+        "listens": 1,
+        "JET CD": {
+            "listens": 1,
+            "\u6e1a\u306b\u307e\u3064\u308f\u308b\u30a8\u30c8\u30bb\u30c8\u30e9": 1
+        }
+    },
+    "M83": {
+        "listens": 1,
+        "Hurry Up, We're Dreaming": {
+            "listens": 1,
+            "Midnight City": 1
+        }
+    },
+    "Louis Futon": {
+        "listens": 1,
+        "Wasted On You": {
+            "listens": 1,
+            "Wasted On You": 1
+        }
+    },
+    "ROZES": {
+        "listens": 1,
+        "Wasted On You": {
+            "listens": 1,
+            "Wasted On You": 1
+        }
+    },
+    "INZO": {
+        "listens": 1,
+        "Earth Magic": {
+            "listens": 1,
+            "Earth Magic": 1
+        }
+    },
+    "Elohim": {
+        "listens": 1,
+        "Earth Magic": {
+            "listens": 1,
+            "Earth Magic": 1
+        }
+    },
+    "Jayceeoh": {
+        "listens": 1,
+        "Grand Slam / Exodus": {
+            "listens": 1,
+            "Exodus": 1
+        }
+    },
+    "Lost Frequencies": {
+        "listens": 1,
+        "Crazy": {
+            "listens": 1,
+            "Crazy": 1
+        }
+    },
+    "Zonderling": {
+        "listens": 1,
+        "Crazy": {
+            "listens": 1,
+            "Crazy": 1
+        }
+    },
+    "Nappy Roots": {
+        "listens": 1,
+        "The Humdinger": {
+            "listens": 1,
+            "Good Day": 1
+        }
+    },
+    "Sabrina Carpenter": {
+        "listens": 1,
+        "Please Please Please": {
+            "listens": 1,
+            "Please Please Please": 1
+        }
+    },
+    "Wesley Taylor": {
+        "listens": 1,
+        "The Addams Family (Original Cast Recording)": {
+            "listens": 1,
+            "Crazier Than You": 1
+        }
+    },
+    "Mike Posner": {
+        "listens": 1,
+        "31 Minutes to Takeoff": {
+            "listens": 1,
+            "Please Don't Go": 1
+        }
+    },
+    "Raumakustik": {
+        "listens": 1,
+        "Raumtube": {
+            "listens": 1,
+            "Raumtube": 1
+        }
+    },
+    "Tube & Berger": {
+        "listens": 1,
+        "Raumtube": {
+            "listens": 1,
+            "Raumtube": 1
+        }
+    },
+    "Berlinist": {
+        "listens": 1,
+        "Gris (Original Game Soundtrack)": {
+            "listens": 1,
+            "Chiasm": 1
+        }
+    },
+    "DECO*27": {
+        "listens": 1,
+        "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb": {
+            "listens": 1,
+            "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb": 1
+        }
+    },
+    "Lizzo": {
+        "listens": 1,
+        "About Damn Time": {
+            "listens": 1,
+            "About Damn Time": 1
+        }
+    },
+    "Daya": {
+        "listens": 1,
+        "Don't Let Me Down": {
+            "listens": 1,
+            "Don't Let Me Down": 1
+        }
+    },
+    "DJ Afterthought": {
+        "listens": 1,
+        "Breakdown": {
+            "listens": 1,
+            "Breakdown": 1
+        }
+    },
+    "VAULT": {
+        "listens": 1,
+        "Breakdown": {
+            "listens": 1,
+            "Breakdown": 1
+        }
+    },
+    "Starley": {
+        "listens": 1,
+        "Call On Me (Remixes)": {
+            "listens": 1,
+            "Call on Me - Ryan Riback Remix": 1
+        }
+    },
+    "Ryan Riback": {
+        "listens": 1,
+        "Call On Me (Remixes)": {
+            "listens": 1,
+            "Call on Me - Ryan Riback Remix": 1
+        }
+    },
+    "Blunts & Blondes": {
+        "listens": 1,
+        "Safe and Sound (Rebelution) [Remix]": {
+            "listens": 1,
+            "Safe and Sound (Rebelution) [Remix]": 1
+        }
+    },
+    "Skrillex": {
+        "listens": 2,
+        "More Monsters and Sprites EP": {
+            "listens": 1,
+            "First of the Year (Equinox)": 1
+        },
+        "Quest For Fire": {
+            "listens": 1,
+            "XENA": 1
+        }
+    },
+    "FITZ": {
+        "listens": 1,
+        "Head Up High (Two Friends Remix)": {
+            "listens": 1,
+            "Head Up High - Two Friends Remix": 1
+        }
+    },
+    "Fitz and The Tantrums": {
+        "listens": 1,
+        "Head Up High (Two Friends Remix)": {
+            "listens": 1,
+            "Head Up High - Two Friends Remix": 1
+        }
+    },
+    "GENESI": {
+        "listens": 1,
+        "MEDUZA": {
+            "listens": 1,
+            "Ecstasy": 1
+        }
+    },
+    "POLTERGST": {
+        "listens": 1,
+        "Dance": {
+            "listens": 1,
+            "Dance": 1
+        }
+    },
+    "Alan Walker": {
+        "listens": 1,
+        "Faded": {
+            "listens": 1,
+            "Faded": 1
+        }
+    },
+    "What So Not": {
+        "listens": 1,
+        "Divide & Conquer": {
+            "listens": 1,
+            "Adieu": 1
+        }
+    },
+    "Walker & Royce": {
+        "listens": 1,
+        "WORD": {
+            "listens": 1,
+            "WORD": 1
+        }
+    },
+    "VNSSA": {
+        "listens": 1,
+        "WORD": {
+            "listens": 1,
+            "WORD": 1
+        }
+    },
+    "sumthin sumthin": {
+        "listens": 1,
+        "Vivid": {
+            "listens": 1,
+            "Vivid": 1
+        }
+    },
+    "succducc": {
+        "listens": 1,
+        "azure": {
+            "listens": 1,
+            "azure": 1
+        }
+    },
+    "Tony Kakkar": {
+        "listens": 1,
+        "Dheeme Dheeme (From \"Pati Patni Aur Woh\")": {
+            "listens": 1,
+            "Dheeme Dheeme (From \"Pati Patni Aur Woh\")": 1
+        }
+    },
+    "Tanishk Bagchi": {
+        "listens": 1,
+        "Dheeme Dheeme (From \"Pati Patni Aur Woh\")": {
+            "listens": 1,
+            "Dheeme Dheeme (From \"Pati Patni Aur Woh\")": 1
+        }
+    },
+    "Nai Barghouti": {
+        "listens": 1,
+        "Quest For Fire": {
+            "listens": 1,
+            "XENA": 1
+        }
+    },
+    "DRAM": {
+        "listens": 1,
+        "Ride Waves": {
+            "listens": 1,
+            "It Gets Better": 1
         }
     }
 }

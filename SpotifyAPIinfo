@@ -1,9 +1,0 @@
-
-Redirect Link
-
-"https://accounts.spotify.com/en/authorize?client_id=3071f420102e4a8ca9520bc8f00c92d8&redirect_uri=http://localhost:8000/auth-redirect&response_type=code&scope=user-read-currently-playing user-read-playback-position user-read-recently-played user-read-playback-state"
-
-
-redirect URI
-
-http://127.0.0.1:8000/

@@ -4,14 +4,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <link rel="stylesheet" href="../css/main.css">
 <style>
-    .column {
-        float: left;
-        width: 50%;
-        margin-bottom: 16px;
-        padding: 0 8px;
-      }
-
-
+      .main {
+        display: flex;
+        padding: 10px;
+    }
 </style>
 
 
@@ -25,6 +21,9 @@
         <a href="#contact">Contact</a>
         <a href="#about">About</a>
         <a class="active" href ="/spotify-api">Spotify</a>
+        <a href ="/compsci">Computer Science</a> 
+        <a href ="/math">Mathematics</a> 
+        <a href ="/physics">Physics</a>
       </div>
 
 <script>
@@ -77,6 +76,14 @@
                     albumListensEle.innerHTML = albumListens;
                     artistListensEle.innerHTML = artistListens;
 
+                    var albumNameEle = document.getElementById("AlbumName");
+                    var artistNameEle = document.getElementById("ArtistName");
+
+                    //console.log(albumNameEle);
+
+                    //console.log(albumName);
+                    albumNameEle.innerHTML = albumName;
+                    artistNameEle.innerHTML = artistName;
 
                 });
 
@@ -109,45 +116,40 @@
    setInterval(updateCurrentSong, 1000);
 </script>
 
-<div class="container">
-    <div class="column" width="640" height="640">
+
+
+<div class="main">
+    <img src="" id="CurrentlyPlayingAlbumCover" width="640" height="640">
         
-        <img src="" id="CurrentlyPlayingAlbumCover" width="640" height="640">
+
+    <div class="main">
+
+        <div class="main">
+
+            <div>
+                <h1 id="CurrentSongHeader"></h1>
+                <h1 id="AlbumName"></h1>
+                <h1 id="ArtistName"></h1>
+            </div>
+
+            <div>
+                <h1>:   Total Song Listens</h1>
+                <h1>:   Total Album Listens</h1>
+                <h1>:   Total Artist Listens</h1>
+            </div>
+
+            
+            <div class="container">
+                <h1 id="SongListens"></h1>
+                <h1 id="AlbumListens"></h1>
+                <h1 id="ArtistListens"></h1>
+            </div>
     
-    </div>
-    <div class="column">
-        <h1>
-            Spotify Stat Tracker
-        </h1>
-        <h1 id="CurrentSongHeader">
-        </h1>
-        <div>
-            <p>Total Song Listens</p>
-            <p id="SongListens"></p>
-        </div>
-        <div>
-            <p>Total Album Listens</p>
-            <p id="AlbumListens"></p>
-        </div>
-        <div>
-            <p>Total Artist Listens</p>
-            <p id="ArtistListens"></p>
         </div>
     </div>
-</div>
+    
 
 
-
-<div>
-
-
-
-
-
-
-
-
-</div>
 
 
 

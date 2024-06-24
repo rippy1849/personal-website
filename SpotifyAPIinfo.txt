@@ -1,0 +1,38 @@
+
+Redirect Link
+
+"https://accounts.spotify.com/en/authorize?client_id=3071f420102e4a8ca9520bc8f00c92d8&redirect_uri=http://localhost:8000/auth-redirect&response_type=code&scope=user-read-currently-playing user-read-playback-position user-read-recently-played user-read-playback-state"
+
+
+redirect URI
+
+http://127.0.0.1:8000/
+
+Exception in thread Thread-61049 (getCurrentSong):
+Traceback (most recent call last):
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\site-packages\requests\models.py", line 960, in json   
+    return complexjson.loads(self.content.decode(encoding), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\fweep\OneDrive\Documents\Code\personal-website\querySpotify.py", line 268, in getCurrentSong
+    songID = (res.json()['item'])['id']
+              ^^^^^^^^^^
+  File "C:\Users\fweep\anaconda3\envs\website\Lib\site-packages\requests\models.py", line 968, in json   
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

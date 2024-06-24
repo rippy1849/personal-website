@@ -105,7 +105,7 @@ class CurrentSongContainer:
         self.resEntry = ''
         self.refreshToken = 'DEFAULT'
         self.userName = 'DEFAULT'
-        self.queryTime = 5
+        self.queryTime = 10
     
     def getCurrenSongRes(self):
         
@@ -180,6 +180,42 @@ request - HTTP request send by user
 def form_post(request: Request):
 
     return templates.TemplateResponse('currentSongPage.html', context={'request': request})
+
+
+
+'''
+@Brief - This page has information about CV-Computer Science
+
+@Params[in] -
+request - HTTP request send by user 
+'''
+@app.get('/compsci')
+def form_post(request: Request):
+
+    return templates.TemplateResponse('compsci.html', context={'request': request})
+
+'''
+@Brief - This page has information about CV-Mathematics
+
+@Params[in] -
+request - HTTP request send by user 
+'''
+@app.get('/math')
+def form_post(request: Request):
+
+    return templates.TemplateResponse('math.html', context={'request': request})
+
+
+'''
+@Brief - This page has information about CV-Physics
+
+@Params[in] -
+request - HTTP request send by user 
+'''
+@app.get('/physics')
+def form_post(request: Request):
+
+    return templates.TemplateResponse('physics.html', context={'request': request})
 
 
 '''
@@ -335,3 +371,20 @@ def get_css(css : str):
 def get_css(html : str):
 
     return FileResponse('./html/' + html)
+
+@app.get('/projects/{subject}/{homeproj}/{paper}')
+def get_css(subject : str, homeproj : str, paper: str):
+
+    #media_type
+    
+    path = './projects/'  + subject + '/' + homeproj + '/' + paper
+    
+    print(path)
+    
+    
+    headers = {"Content-Disposition": "inline; " + "filename=" + path}
+    
+    response = FileResponse(path, media_type="application/pdf", headers=headers) 
+
+
+    return response
