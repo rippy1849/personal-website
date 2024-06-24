@@ -375,7 +375,7 @@
         }
     },
     "Hatsune Miku": {
-        "listens": 11,
+        "listens": 12,
         "Why Do I (with Hatsune Miku)": {
             "listens": 2,
             "Why Do I (with Hatsune Miku)": 2
@@ -385,8 +385,8 @@
             "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)": 1
         },
         "Digital Girl": {
-            "listens": 2,
-            "Digital Girl": 2
+            "listens": 3,
+            "Digital Girl": 3
         },
         "Ievan Polkka (Remastered 2024)": {
             "listens": 3,
@@ -479,10 +479,14 @@
         }
     },
     "Big Wild": {
-        "listens": 1,
+        "listens": 2,
         "Invincible EP": {
             "listens": 1,
             "When I Get There": 1
+        },
+        "Superdream": {
+            "listens": 1,
+            "Purple Sand (My Home)": 1
         }
     },
     "Charli xcx": {
@@ -717,7 +721,7 @@
         }
     },
     "GRiZ": {
-        "listens": 23,
+        "listens": 24,
         "Rainbow Brain": {
             "listens": 9,
             "Other Side of Jupiter": 1,
@@ -774,6 +778,10 @@
         "Chasing The Golden Hour, Pt. 3": {
             "listens": 1,
             "Floating": 1
+        },
+        "Chasing The Golden Hour, Pt. 4": {
+            "listens": 1,
+            "4 Your Mind": 1
         }
     },
     "Jantsen": {
@@ -1495,10 +1503,14 @@
         }
     },
     "Clean Bandit": {
-        "listens": 1,
+        "listens": 2,
         "What Is Love? (Deluxe Edition)": {
             "listens": 1,
             "Solo (feat. Demi Lovato)": 1
+        },
+        "Rockabye (feat. Sean Paul & Anne-Marie)": {
+            "listens": 1,
+            "Rockabye (feat. Sean Paul & Anne-Marie)": 1
         }
     },
     "Ashe": {
@@ -1574,10 +1586,14 @@
         }
     },
     "Anne-Marie": {
-        "listens": 1,
+        "listens": 2,
         "Baby Don't Hurt Me": {
             "listens": 1,
             "Baby Don't Hurt Me": 1
+        },
+        "Rockabye (feat. Sean Paul & Anne-Marie)": {
+            "listens": 1,
+            "Rockabye (feat. Sean Paul & Anne-Marie)": 1
         }
     },
     "Coi Leray": {
@@ -1602,10 +1618,10 @@
         }
     },
     "Porter Robinson": {
-        "listens": 9,
+        "listens": 10,
         "Cheerleader": {
-            "listens": 4,
-            "Cheerleader": 4
+            "listens": 5,
+            "Cheerleader": 5
         },
         "Russian Roulette": {
             "listens": 2,
@@ -1660,11 +1676,15 @@
         }
     },
     "blink-182": {
-        "listens": 2,
+        "listens": 3,
         "Enema Of The State": {
             "listens": 2,
             "What's My Age Again?": 1,
             "All The Small Things": 1
+        },
+        "Take Off Your Pants And Jacket": {
+            "listens": 1,
+            "First Date": 1
         }
     },
     "Billy Joel": {
@@ -1798,10 +1818,11 @@
         }
     },
     "Vance Joy": {
-        "listens": 1,
+        "listens": 2,
         "Dream Your Life Away (Special Edition)": {
-            "listens": 1,
-            "Riptide": 1
+            "listens": 2,
+            "Riptide": 1,
+            "Georgia": 1
         }
     },
     "Jeremy Jordan": {
@@ -1981,10 +2002,10 @@
         }
     },
     "KIRA": {
-        "listens": 2,
+        "listens": 3,
         "Digital Girl": {
-            "listens": 2,
-            "Digital Girl": 2
+            "listens": 3,
+            "Digital Girl": 3
         }
     },
     "Keys N Krates": {
@@ -2310,10 +2331,12 @@
         }
     },
     "LSDREAM": {
-        "listens": 1,
+        "listens": 3,
         "PEACE LOVE & WUBZ": {
-            "listens": 1,
-            "WILD ORCHIDS": 1
+            "listens": 3,
+            "WILD ORCHIDS": 1,
+            "ILY": 1,
+            "LOVE ROCKET": 1
         }
     },
     "Karra": {
@@ -3476,10 +3499,14 @@
         }
     },
     "sumthin sumthin": {
-        "listens": 1,
+        "listens": 2,
         "Vivid": {
             "listens": 1,
             "Vivid": 1
+        },
+        "Inhale": {
+            "listens": 1,
+            "Inhale": 1
         }
     },
     "succducc": {
@@ -3515,6 +3542,153 @@
         "Ride Waves": {
             "listens": 1,
             "It Gets Better": 1
+        }
+    },
+    "Josement": {
+        "listens": 1,
+        "All Night Alone (Chris Lake Edit)": {
+            "listens": 1,
+            "All Night Alone - Chris Lake Edit": 1
+        }
+    },
+    "Chris Lake": {
+        "listens": 1,
+        "All Night Alone (Chris Lake Edit)": {
+            "listens": 1,
+            "All Night Alone - Chris Lake Edit": 1
+        }
+    },
+    "SWAYL\u00d3": {
+        "listens": 1,
+        "Open Up": {
+            "listens": 1,
+            "Open Up": 1
+        }
+    },
+    "Louis The Child": {
+        "listens": 1,
+        "Fire": {
+            "listens": 1,
+            "Fire": 1
+        }
+    },
+    "Evalyn": {
+        "listens": 1,
+        "Fire": {
+            "listens": 1,
+            "Fire": 1
+        }
+    },
+    "Candace": {
+        "listens": 1,
+        "Phineas And Ferb": {
+            "listens": 1,
+            "Busted": 1
+        }
+    },
+    "Vanessa": {
+        "listens": 1,
+        "Phineas And Ferb": {
+            "listens": 1,
+            "Busted": 1
+        }
+    },
+    "Schmyt": {
+        "listens": 1,
+        "Mach kaputt": {
+            "listens": 1,
+            "Mach kaputt": 1
+        }
+    },
+    "OG Keemo": {
+        "listens": 1,
+        "Mach kaputt": {
+            "listens": 1,
+            "Mach kaputt": 1
+        }
+    },
+    "Lucian Piane": {
+        "listens": 1,
+        "Legs (From \"RuPaul's Drag Race 8\")": {
+            "listens": 1,
+            "Legs (From \"RuPaul's Drag Race 8\")": 1
+        }
+    },
+    "Myah Marie": {
+        "listens": 1,
+        "Legs (From \"RuPaul's Drag Race 8\")": {
+            "listens": 1,
+            "Legs (From \"RuPaul's Drag Race 8\")": 1
+        }
+    },
+    "Joel Corry": {
+        "listens": 1,
+        "Head & Heart (feat. MNEK)": {
+            "listens": 1,
+            "Head & Heart (feat. MNEK)": 1
+        }
+    },
+    "MNEK": {
+        "listens": 1,
+        "Head & Heart (feat. MNEK)": {
+            "listens": 1,
+            "Head & Heart (feat. MNEK)": 1
+        }
+    },
+    "Brandon K. Verrett": {
+        "listens": 1,
+        "The Terminator: Theme from the Motion Picture (Single) (Brad Fiedel)": {
+            "listens": 1,
+            "The Terminator - Main Theme (Brad Fiedel)": 1
+        }
+    },
+    "PL\u00dcM": {
+        "listens": 1,
+        "The Source": {
+            "listens": 1,
+            "The Source": 1
+        }
+    },
+    "Sara Costa": {
+        "listens": 1,
+        "The Source": {
+            "listens": 1,
+            "The Source": 1
+        }
+    },
+    "MeSo": {
+        "listens": 1,
+        "PEACE LOVE & WUBZ": {
+            "listens": 1,
+            "LOVE ROCKET": 1
+        }
+    },
+    "Elephant Heart": {
+        "listens": 1,
+        "PEACE LOVE & WUBZ": {
+            "listens": 1,
+            "LOVE ROCKET": 1
+        }
+    },
+    "Fleetwood Mac": {
+        "listens": 1,
+        "Greatest Hits": {
+            "listens": 1,
+            "Rhiannon": 1
+        }
+    },
+    "Shakira": {
+        "listens": 1,
+        "Sale el Sol": {
+            "listens": 1,
+            "Waka Waka (This Time for Africa) - K-Mix": 1
+        }
+    },
+    "Sean Paul": {
+        "listens": 1,
+        "Rockabye (feat. Sean Paul & Anne-Marie)": {
+            "listens": 1,
+            "Rockabye (feat. Sean Paul & Anne-Marie)": 1
         }
     }
 }
