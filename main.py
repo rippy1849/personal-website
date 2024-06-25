@@ -379,10 +379,28 @@ def get_css(subject : str, homeproj : str, paper: str):
     
     path = './projects/'  + subject + '/' + homeproj + '/' + paper
     
-    print(path)
+    # print(path)
     
     
-    headers = {"Content-Disposition": "inline; " + "filename=" + path}
+    headers = {"Content-Disposition": "inline; " + "filename=" + paper}
+    
+    response = FileResponse(path, media_type="application/pdf", headers=headers) 
+
+
+    return response
+
+
+@app.get('/files/{file}')
+def get_css(file : str):
+
+    #media_type
+    
+    path = './files/'  + file
+    
+    # print(path)
+    
+    
+    headers = {"Content-Disposition": "inline; " + "filename=" + file}
     
     response = FileResponse(path, media_type="application/pdf", headers=headers) 
 
