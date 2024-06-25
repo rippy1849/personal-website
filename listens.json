@@ -1,15 +1,18 @@
 {
     "Steven Universe": {
-        "listens": 4,
+        "listens": 7,
         "Steven Universe The Movie (Original Soundtrack)": {
-            "listens": 2,
+            "listens": 3,
             "The Missing Piece": 1,
-            "Independent Together (feat. Ted Leo, Deedee Magno Hall & Aimee Mann)": 1
+            "Independent Together (feat. Ted Leo, Deedee Magno Hall & Aimee Mann)": 1,
+            "Disobedient (feat. Kate Micucci & Michaela Dietz)": 1
         },
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
-            "listens": 2,
+            "listens": 4,
             "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1,
-            "Stronger Than You (feat. Estelle)": 1
+            "Stronger Than You (feat. Estelle)": 1,
+            "What Can I Do (For You) [feat. Susan Egan & Tom Scharpling]": 1,
+            "It's Over Isn't It (feat. Deedee Magno Hall)": 1
         }
     },
     "Ellie Goulding": {
@@ -124,7 +127,7 @@
         }
     },
     "Melanie Martinez": {
-        "listens": 8,
+        "listens": 10,
         "PORTALS": {
             "listens": 6,
             "VOID": 1,
@@ -133,12 +136,14 @@
             "TUNNEL VISION": 2
         },
         "K-12": {
-            "listens": 1,
-            "Wheels on the Bus": 1
+            "listens": 2,
+            "Wheels on the Bus": 1,
+            "Drama Club": 1
         },
         "Cry Baby (Deluxe Edition)": {
-            "listens": 1,
-            "Carousel": 1
+            "listens": 2,
+            "Carousel": 1,
+            "Pity Party": 1
         }
     },
     "Diljit Dosanjh": {
@@ -368,10 +373,14 @@
         }
     },
     "Set It Off": {
-        "listens": 2,
+        "listens": 3,
         "Why Do I (with Hatsune Miku)": {
             "listens": 2,
             "Why Do I (with Hatsune Miku)": 2
+        },
+        "Cinematics (Expanded Edition)": {
+            "listens": 1,
+            "Partners in Crime (feat. Ash Costello)": 1
         }
     },
     "Hatsune Miku": {
@@ -490,7 +499,7 @@
         }
     },
     "Charli xcx": {
-        "listens": 2,
+        "listens": 3,
         "BRAT": {
             "listens": 1,
             "Talk talk": 1
@@ -498,6 +507,10 @@
         "THIS IS... ICONA POP": {
             "listens": 1,
             "I Love It (feat. Charli XCX)": 1
+        },
+        "Speed Drive (From Barbie The Album)": {
+            "listens": 1,
+            "Speed Drive (From Barbie The Album)": 1
         }
     },
     "Die Atzen": {
@@ -945,10 +958,15 @@
         }
     },
     "Olivia Rodrigo": {
-        "listens": 1,
+        "listens": 3,
         "SOUR": {
+            "listens": 2,
+            "deja vu": 1,
+            "brutal": 1
+        },
+        "GUTS": {
             "listens": 1,
-            "deja vu": 1
+            "vampire": 1
         }
     },
     "Calvin Harris": {
@@ -967,10 +985,14 @@
         }
     },
     "Lana Del Rey": {
-        "listens": 1,
+        "listens": 2,
         "Say Yes To Heaven": {
             "listens": 1,
             "Say Yes To Heaven": 1
+        },
+        "Starboy": {
+            "listens": 1,
+            "Stargirl Interlude": 1
         }
     },
     "Yaeji": {
@@ -1002,10 +1024,11 @@
         }
     },
     "Deedee Magno Hall": {
-        "listens": 2,
+        "listens": 3,
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
-            "listens": 1,
-            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1
+            "listens": 2,
+            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1,
+            "It's Over Isn't It (feat. Deedee Magno Hall)": 1
         },
         "Steven Universe The Movie (Original Soundtrack)": {
             "listens": 1,
@@ -1025,17 +1048,22 @@
         }
     },
     "Michaela Dietz": {
-        "listens": 1,
+        "listens": 2,
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
             "listens": 1,
             "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1
+        },
+        "Steven Universe The Movie (Original Soundtrack)": {
+            "listens": 1,
+            "Disobedient (feat. Kate Micucci & Michaela Dietz)": 1
         }
     },
     "Tom Scharpling": {
-        "listens": 1,
+        "listens": 2,
         "Steven Universe, Vol. 1 (Original Soundtrack)": {
-            "listens": 1,
-            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1
+            "listens": 2,
+            "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song": 1,
+            "What Can I Do (For You) [feat. Susan Egan & Tom Scharpling]": 1
         }
     },
     "Zach Callison": {
@@ -1388,10 +1416,14 @@
         }
     },
     "Lady Gaga": {
-        "listens": 1,
+        "listens": 2,
         "A Star Is Born Soundtrack (Without Dialogue)": {
             "listens": 1,
             "Always Remember Us This Way": 1
+        },
+        "The Fame Monster (Deluxe Edition)": {
+            "listens": 1,
+            "Monster": 1
         }
     },
     "Gorgon City": {
@@ -1908,7 +1940,7 @@
         }
     },
     "The Weeknd": {
-        "listens": 2,
+        "listens": 3,
         "After Hours": {
             "listens": 1,
             "Blinding Lights": 1
@@ -1916,6 +1948,10 @@
         "Beauty Behind The Madness": {
             "listens": 1,
             "The Hills": 1
+        },
+        "Starboy": {
+            "listens": 1,
+            "Stargirl Interlude": 1
         }
     },
     "Sofi Tukker": {
@@ -2379,17 +2415,25 @@
         }
     },
     "Adventure Time": {
-        "listens": 2,
+        "listens": 3,
         "Adventure Time, Vol. 3 (Original Soundtrack)": {
             "listens": 2,
             "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 2
+        },
+        "Adventure Time: Distant Lands - Obsidian (Original Soundtrack) [Deluxe Edition]": {
+            "listens": 1,
+            "Woke Up (feat. Olivia Olson & Zuzu)": 1
         }
     },
     "Olivia Olson": {
-        "listens": 2,
+        "listens": 3,
         "Adventure Time, Vol. 3 (Original Soundtrack)": {
             "listens": 2,
             "Time Adventure (feat. Olivia Olson, Niki Yang & Hynden Walch)": 2
+        },
+        "Adventure Time: Distant Lands - Obsidian (Original Soundtrack) [Deluxe Edition]": {
+            "listens": 1,
+            "Woke Up (feat. Olivia Olson & Zuzu)": 1
         }
     },
     "Niki Yang": {
@@ -3689,6 +3733,80 @@
         "Rockabye (feat. Sean Paul & Anne-Marie)": {
             "listens": 1,
             "Rockabye (feat. Sean Paul & Anne-Marie)": 1
+        }
+    },
+    "Zuzu": {
+        "listens": 1,
+        "Adventure Time: Distant Lands - Obsidian (Original Soundtrack) [Deluxe Edition]": {
+            "listens": 1,
+            "Woke Up (feat. Olivia Olson & Zuzu)": 1
+        }
+    },
+    "mazie": {
+        "listens": 2,
+        "the rainbow cassette": {
+            "listens": 1,
+            "i think i wanna be alone": 1
+        },
+        "blotter baby": {
+            "listens": 1,
+            "girls just wanna have sex": 1
+        }
+    },
+    "Jack Stauber's Micropop": {
+        "listens": 1,
+        "Shop: A Pop Opera": {
+            "listens": 1,
+            "Coffee": 1
+        }
+    },
+    "Susan Egan": {
+        "listens": 1,
+        "Steven Universe, Vol. 1 (Original Soundtrack)": {
+            "listens": 1,
+            "What Can I Do (For You) [feat. Susan Egan & Tom Scharpling]": 1
+        }
+    },
+    "Emei": {
+        "listens": 1,
+        "Trust Issues": {
+            "listens": 1,
+            "Trust Issues": 1
+        }
+    },
+    "girli": {
+        "listens": 1,
+        "I Really F**ked It Up": {
+            "listens": 1,
+            "I Really F**ked It Up": 1
+        }
+    },
+    "Ash Costello": {
+        "listens": 1,
+        "Cinematics (Expanded Edition)": {
+            "listens": 1,
+            "Partners in Crime (feat. Ash Costello)": 1
+        }
+    },
+    "Paris Paloma": {
+        "listens": 1,
+        "labour": {
+            "listens": 1,
+            "labour": 1
+        }
+    },
+    "Britney Spears": {
+        "listens": 1,
+        "Circus (Deluxe Version)": {
+            "listens": 1,
+            "Circus": 1
+        }
+    },
+    "Kate Micucci": {
+        "listens": 1,
+        "Steven Universe The Movie (Original Soundtrack)": {
+            "listens": 1,
+            "Disobedient (feat. Kate Micucci & Michaela Dietz)": 1
         }
     }
 }
